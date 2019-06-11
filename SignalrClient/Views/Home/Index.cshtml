@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/signalr/dist/browser/signalr.js"></script>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<script>
+    let connection = new signalR.HubConnectionBuilder()
+        .withUrl("http://localhost:5555/ExampleHub")
+        .configureLogging(signalR.LogLevel.Information)
+        .build();
+
+     connection.on('SetConnectionId', data => {
+        console.log("ConnectionID : " + data);
+         var result = connection.invoke('ConnectGroup', 'ExampleGroup', data);
+        console.log(result);
+
+     });
+
+    connection.on('ChangeProductValue', data => {
+
+        alert(data);
+     
+    });
+
+    connection.start();
+</script>

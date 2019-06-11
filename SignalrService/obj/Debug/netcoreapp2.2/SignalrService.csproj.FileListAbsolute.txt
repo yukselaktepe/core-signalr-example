@@ -1,0 +1,11 @@
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\bin\Debug\netcoreapp2.2\SignalrService.deps.json
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\bin\Debug\netcoreapp2.2\SignalrService.runtimeconfig.json
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\bin\Debug\netcoreapp2.2\SignalrService.runtimeconfig.dev.json
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\bin\Debug\netcoreapp2.2\SignalrService.dll
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.csprojAssemblyReference.cache
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.csproj.CoreCompileInputs.cache
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.AssemblyInfoInputs.cache
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.AssemblyInfo.cs
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\bin\Debug\netcoreapp2.2\SignalrService.pdb
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.dll
+C:\Users\yaktepe\source\repos\core-signalr-example\SignalrService\obj\Debug\netcoreapp2.2\SignalrService.pdb
